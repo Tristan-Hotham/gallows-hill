@@ -1,0 +1,5 @@
+name,wikidata,wikipedia,coord_source,lat,lon,elev_m,rel_1km_m,share_lower_1km,town,town_km,vill,vill_km,seen_town,seen_vill,roman_km,aroad_km,lad_km,cty_km,hund_km,shire_km,vill_ratio
+Execution Dock,Q1271020,https://en.wikipedia.org/wiki/Execution_Dock,Wikidata Q1271020 (P625),51.5033,-0.0572,5.1678,-1.6694,0.3906,City of London,2.7279,City of London,2.7279,0.0,0.0,1.5371,0.4727,1.4155,14.2217,,,
+Winter's Gibbet and adjacent crossbase of Steng Cross,Q26293145,https://en.wikipedia.org/wiki/Winter%27s_Gibbet,Wikidata Q26293145 (P625),55.2112,-2.0613,310.3764,9.2838,0.8906,Rothbury,14.6061,Elsdon,3.5757,0.0,0.0,7.728,2.09,24.6875,24.6875,,,
+Caxton Gibbet,Q5055267,https://en.wikipedia.org/wiki/Caxton_Gibbet,Wikidata Q5055267 (P625),52.2283,-0.1028,66.0,1.8279,0.7969,St Ives,10.8213,Caxton,2.1971,0.0,0.0,0.0086,0.0136,2.3547,9.9749,0.6613,1.2336,0.9242
+Combe Gibbet,Q5150761,https://en.wikipedia.org/wiki/Combe_Gibbet,Wikidata Q5150761 (P625),51.3559,-1.4844,269.8909,34.1663,0.7656,Hungerford,6.8781,Lower Green,2.189,0.0,1.0,7.2518,4.4629,0.733,0.733,0.3166,0.3166,0.7453
