@@ -431,5 +431,6 @@ const tab = document.getElementById("tab");
 tab.innerHTML = `<thead><tr><th>Measure</th><th class="num">Names</th><th class="num">Matched</th><th class="num">Matched on town</th><th class="num">Random land</th><th class="num">One per place</th></tr></thead><tbody>` +
   TAB.map(([k, l, t]) => { const x = G.strong[k], c = G.strong_clusters[k]; return `<tr><td>${l}</td><td class="num">${ff(x.match.obs, t)}</td><td class="num">${ff(x.match.base, t)} (${pfmt(x.match.p)})</td><td class="num">${ff(x.town.base, t)} (${pfmt(x.town.p)})</td><td class="num">${ff(x.rand.base, t)} (${pfmt(x.rand.p)})</td><td class="num">${ff(c.match.obs, t)} (${pfmt(c.match.p)})</td></tr>`; }).join("") + "</tbody>";
 </script>
+<script src="https://tristan-hotham.github.io/assets/site-nav.js" defer></script>
 </body>
 </html>
